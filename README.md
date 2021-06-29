@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! I'm Talita 
+  <!--GIF-->
+  <a href="#"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="140"></a>
 
-<!--
-**talita-aya/talita-aya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p float="left">
+  <!--GITHUB STATS-->
+  <a href="https://github.com/talita-aya"><img src="https://github-readme-stats.vercel.app/api?username=talita-aya&border_color=1a1b27&show_icons=true&theme=tokyonight&hide=issues" alt="github stats" width="450"></a>
+  <!--MOST USED LANGUAGES-->
+  <a href="https://github.com/talita-aya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talita-aya&border_color=1a1b27&layout=compact&theme=tokyonight" alt="most used languages" width="380"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+  <!--INSTAGRAM-->
+  <a href="https://www.instagram.com/talita.aya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
