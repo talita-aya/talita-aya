@@ -15,4 +15,4 @@
 <p float="left">
   <!--INSTAGRAM-->
   <a href="https://www.instagram.com/talita.aya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=5275B2&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talita-aya-sakamoto-kuriki-093b0a1b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=instagram&color=7453b2&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/talita-aya-sakamoto-kuriki-093b0a1b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&color=7453b2&logoColor=white" target="_blank"></a>
