@@ -1,18 +1,21 @@
-## Hi! I'm Talita 
-  <!--GIF-->
-  
-<p float="left">
-  <a href="#"><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="210"></a>
-  <!--GITHUB STATS-->
-  <a href="https://github.com/talita-aya"><img src="https://github-readme-stats.vercel.app/api?username=talita-aya&border_color=1a1b27&show_icons=true&theme=tokyonight&hide=issues" alt="github stats" width="450"></a>
-  
-  <!--MOST USED LANGUAGES-->
-  <!--
-  <a href="https://github.com/talita-aya"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talita-aya&border_color=1a1b27&layout=compact&theme=tokyonight" alt="most used languages" width="385"></a>
--->
-</p>
+<h1 align="center">Oi! Prazer Talita <img width="40" alt="GIF de mão acenando" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"></h1>
 
-<p float="left">
-  <!--INSTAGRAM-->
-  <a href="https://www.instagram.com/talita.aya/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=5275B2&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talita-aya-sakamoto-kuriki-093b0a1b6/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&color=7453b2&logoColor=white" target="_blank"></a>
+<h3 align="center">Estudante de Engenharia da Computação e apaixonada por tecnologia e design</h3>
+<br>
+<br>
+<img src="https://media.tenor.com/qhcRVSoKQ-YAAAAi/totoro-discord.gif" width="100%" alt="capa em forma de gif"/>
+
+<div align="center">
+  <a href="https://www.instagram.com/talita.aya/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="linkedin.com/in/talita-aya/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:kurikitalita@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</div>
+<br>
+<br>
+
+<div align="center">
+  
+  ![talita-aya's Stats](https://github-readme-stats.vercel.app/api?username=talita-aya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![talita-aya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=talita-aya&theme=vue-dark&hide_border=true)
+  
+</div>
