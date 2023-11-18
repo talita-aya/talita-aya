@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-  
-  ![talita-aya's Stats](https://github-readme-stats.vercel.app/api?username=talita-aya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![talita-aya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=talita-aya&theme=vue-dark&hide_border=true)
+
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=talita-aya&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Github stats"/>
+  <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=talita-aya&theme=vue-dark&hide_border=true" alt="Github streak"/>
   
 </div>
